@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: exclude large model binaries if you prefer not to track them
+# models/*.pkl
